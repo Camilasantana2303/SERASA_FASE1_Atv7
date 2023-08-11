@@ -1,0 +1,8 @@
+C:\Users\camil\source\repos\Atv07MaquinaDeCafe\Atv07MaquinaDeCafe\bin\Debug\Atv07MaquinaDeCafe.exe.config
+C:\Users\camil\source\repos\Atv07MaquinaDeCafe\Atv07MaquinaDeCafe\bin\Debug\Atv07MaquinaDeCafe.exe
+C:\Users\camil\source\repos\Atv07MaquinaDeCafe\Atv07MaquinaDeCafe\bin\Debug\Atv07MaquinaDeCafe.pdb
+C:\Users\camil\source\repos\Atv07MaquinaDeCafe\Atv07MaquinaDeCafe\obj\Debug\Atv07MaquinaDeCafe.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Atv07MaquinaDeCafe\Atv07MaquinaDeCafe\obj\Debug\Atv07MaquinaDeCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\camil\source\repos\Atv07MaquinaDeCafe\Atv07MaquinaDeCafe\obj\Debug\Atv07MaquinaDeCafe.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Atv07MaquinaDeCafe\Atv07MaquinaDeCafe\obj\Debug\Atv07MaquinaDeCafe.exe
+C:\Users\camil\source\repos\Atv07MaquinaDeCafe\Atv07MaquinaDeCafe\obj\Debug\Atv07MaquinaDeCafe.pdb
